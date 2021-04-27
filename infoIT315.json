@@ -1,0 +1,83 @@
+{
+	"restInfo": [
+
+
+	{
+		"RestName": "The Auld Shebeen", 
+		"RestDescription": "Irish pub & local student hangout featuring multiple rooms, live music & a basement dance floor.",
+		"Restphone": "7032939600",
+		"RestAddress": "3971 Chain Bridge Rd, Fairfax, VA 22030",
+		"RestWebsite": "http://places.singleplatform.com/the-auld-shebeen/menu?ref=google#menu_2484323",
+		"RestHour": "11AM - 10PM",
+		"RestPrice": "$$"
+
+	},
+
+
+		{
+		"RestName": "Lazy Dog Restaurant", 
+		"RestDescription": "Lazy Dog is known for its small mountain town vibe and Wyoming-inspired ambience.",
+		"Restphone": "7037911032",
+		"RestAddress": " 11963 U Fair Oaks Shopping Center Fairfax, VA 22033",
+		"RestWebsite": "https://www.lazydogrestaurants.com/locations/fairfax-va",
+		"RestHour": "11AM - 12PM ",
+		"RestPrice": "$$"
+
+	},
+
+
+		{
+		"RestName": "De Clieu Sandwiches", 
+		"RestDescription": "Contemporary coffee shop featuring locally roasted coffee beans, plus soups, sandwiches & salads. ",
+		"Restphone": "7035910309",
+		"RestAddress": "10389 Main St B, Fairfax, VA 22030 ",
+		"RestWebsite": "https://www.coffeedeclieu.com/ ",
+		"RestHour": "8AM - 5PM ",
+		"RestPrice": "$"
+
+	},
+
+
+
+		{
+		"RestName": "Moby Dick", 
+		"RestDescription": "Local counter-serve chain offering skewers, falafel & other Middle Eastern classics.",
+		"Restphone": "7032795077",
+		"RestAddress": "9940-A, Fairfax Blvd, Fairfax, VA 22030",
+		"RestWebsite": "https://www.mobyskabob.com/",
+		"RestHour": "11AM - 8PM",
+		"RestPrice": "$"
+
+	},
+
+
+	{
+		"RestName": "Coastal Flats", 
+		"RestDescription": "Colorful maritime decor & seafood classics lure crowds to this bustling restaurant.",
+		"Restphone": "5715226300",
+		"RestAddress": "11901 Grand Commons Ave, Fairfax, VA 22030",
+		"RestWebsite": "https://coastalflats.net/",
+		"RestHour": "11AM - 10PM",
+		"RestPrice": "$$$"
+
+	},
+
+
+	{
+		"RestName": "Uncle Julio's Mexican From Scratch", 
+		"RestDescription": "Tex-Mex chain serving mesquite-grilled fare & margarita-sangria swirls in a hacienda-style space.",
+		"Restphone": "7032667760",
+		"RestAddress": "4251 Fairfax Corner Ave, Fairfax, VA 22030",
+		"RestWebsite": "https://unclejulios.com/locations/fairfax-corner/",
+		"RestHour": "11AM - 11PM",
+		"RestPrice": "$$"
+
+	}
+
+
+
+
+	]
+
+
+}
